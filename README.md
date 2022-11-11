@@ -4,7 +4,7 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
  git clone this repo and run `docker-compose up -d` to get started
 
-# Getting Started with Create React App
+# Getting Started with Create NextJS App
 
 This project was bootstrapped with [Create NextJS App](https://nextjs.org/docs/getting-started).
 
